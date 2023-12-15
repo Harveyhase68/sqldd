@@ -1,3 +1,3 @@
 ![SQLDD logo](sqldd_logo.png)
 # sqldd
-A internal projekt for extracting data structure from a .sql file
+A internal project for extracting data structure as an array, from a .sql file
